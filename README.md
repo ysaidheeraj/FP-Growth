@@ -1,0 +1,3 @@
+# FP-Growth
+This is an implementation of the Fp growth algorithm in C language done for my data mining assignment.
+The data set used is of the format: Tid, item1, item2,......
